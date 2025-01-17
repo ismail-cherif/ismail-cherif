@@ -35,7 +35,9 @@
 <p align="left">
   <!-- Add your languages and tools icons here as in the original -->
 </p>
+
 ---
+
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ismail-cherif&show_icons=true&theme=radical" alt="GitHub stats"/>
